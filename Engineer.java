@@ -1,7 +1,7 @@
 package BridgeBuilderAdv;
 /**
  * This class presents methods related to the Engineer and its two move options.
- * @author Ariana Feng
+ * @author Ariana F
  */
 import java.util.Random;
 public class Engineer {
