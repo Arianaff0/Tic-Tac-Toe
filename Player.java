@@ -1,7 +1,7 @@
 package BridgeBuilderAdv;
 /**
  * This class presents methods related to the player(you!).
- * @author Ariana Feng
+ * @author Ariana F
  */
 
 public class Player {
