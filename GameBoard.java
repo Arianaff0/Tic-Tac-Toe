@@ -1,7 +1,7 @@
 package BridgeBuilderAdv;
 /**
  * This class presents methods related to the Game Board.
- * @author Ariana Feng
+ * @author Ariana F
  * @since 2023-07-03 :):):):):)woohhh!
  * 150 Word Summary below
  */
